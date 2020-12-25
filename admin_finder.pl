@@ -15,7 +15,7 @@ print "\t> [!]Admin Control Panel Finder v1.0                 >\n";
 print "\t>                [!]Developed By mohitnegi                >\n";
 print "\t>       ======================================       >\n";
 print "\t> [!]Please Visite ==> http://youtube.com/mohitnegi.com          >\n";
-print "\t> [!]Contact Us ==> negi96900@gmail.com           >\n";
+print "\t> [!]Contact Us ==> mohitsinghnegi8533@gmail.com           >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
